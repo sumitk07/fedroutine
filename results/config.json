@@ -1,0 +1,24 @@
+{
+  "n_homes": 10,
+  "n_train": 70,
+  "n_val": 14,
+  "n_test": 40,
+  "n_anom_per_type": 2,
+  "lr": 0.001,
+  "batch": 16,
+  "local_only_epochs": 150,
+  "central_epochs": 60,
+  "rounds": 50,
+  "local_epochs": 3,
+  "threshold_pct": 97,
+  "dp_clip": 1.0,
+  "dp_sigmas": [
+    0.5,
+    1.0
+  ],
+  "seeds": [
+    0,
+    1,
+    2
+  ]
+}

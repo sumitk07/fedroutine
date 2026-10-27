@@ -1,0 +1,40 @@
+[H03, seed 2] injected: skipped_meal
+  - Kitchen: less activity than usual between 08:00 and 10:00 (0 sensor events today, usually about 13).
+  - Bedroom: less activity than usual between 22:00 and 24:00 (13 sensor events today, usually about 15).
+
+[H10, seed 1] injected: skipped_meal
+  - Bathroom: more activity than usual between 04:00 and 06:00 (13 sensor events today, usually about 6).
+  - Bedroom: more activity than usual between 04:00 and 06:00 (18 sensor events today, usually about 8).
+
+[H02, seed 1] injected: long_inactivity
+  - Living: less activity than usual between 16:00 and 18:00 (6 sensor events today, usually about 55).
+  - Living: less activity than usual between 12:00 and 14:00 (9 sensor events today, usually about 40).
+
+[H02, seed 1] injected: long_inactivity
+  - Living: less activity than usual between 16:00 and 18:00 (1 sensor event today, usually about 55).
+  - Living: less activity than usual between 14:00 and 16:00 (0 sensor events today, usually about 49).
+
+[H01, seed 0] injected: night_wandering
+  - Kitchen: more activity than usual between 02:00 and 04:00 (21 sensor events today, usually about 0).
+  - Kitchen: more activity than usual between 00:00 and 02:00 (11 sensor events today, usually about 0).
+
+[H03, seed 0] injected: night_wandering
+  - Entrance: more activity than usual between 02:00 and 04:00 (12 sensor events today, usually about 0).
+  - Kitchen: more activity than usual between 02:00 and 04:00 (13 sensor events today, usually about 0).
+
+[H06, seed 2] injected: disturbed_sleep
+  - Bathroom: more activity than usual between 02:00 and 04:00 (23 sensor events today, usually about 1).
+  - Living: less activity than usual between 16:00 and 18:00 (23 sensor events today, usually about 35).
+
+[H10, seed 1] injected: disturbed_sleep
+  - Bathroom: more activity than usual between 04:00 and 06:00 (14 sensor events today, usually about 6).
+  - Bathroom: more activity than usual between 20:00 and 22:00 (5 sensor events today, usually about 4).
+
+[H05, seed 1] injected: late_wake
+  - Living: less activity than usual between 08:00 and 10:00 (2 sensor events today, usually about 79).
+  - Kitchen: more activity than usual between 10:00 and 12:00 (23 sensor events today, usually about 2).
+
+[H09, seed 1] injected: late_wake
+  - Bedroom: more activity than usual between 12:00 and 14:00 (13 sensor events today, usually about 0).
+  - Living: less activity than usual between 12:00 and 14:00 (2 sensor events today, usually about 24).
+

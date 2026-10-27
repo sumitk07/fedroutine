@@ -1,0 +1,13 @@
+{
+  "n_explained_alerts": 153,
+  "hit_rate_overall": 0.7124183006535948,
+  "hit_rate_by_type": {
+    "disturbed_sleep": 0.778,
+    "late_wake": 0.4,
+    "long_inactivity": 0.941,
+    "night_wandering": 0.948,
+    "skipped_meal": 0.778
+  },
+  "deletion_drop_top_block": 0.21624416130890495,
+  "deletion_drop_random_block": 0.017763804722350052
+}
